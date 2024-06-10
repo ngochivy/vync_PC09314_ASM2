@@ -1,2 +1,18 @@
-# vync_PC09314_ASM2
-FINAL
+PC09314 ASSIGNMENT FINAL PHP1
+- 👾 Hi, I'm Ngo Chi Vy.
+- 👽 My student ID is PC09314
+- 🥳 I'm very interested in my field of study.
+- 🤖 I'm currently a amateur programmer.
+
+
+             ❤️     ❤️
+        ❤️      ❤️     ❤️
+    ❤️                     ❤️
+ ❤️                           ❤️
+  ❤️                         ❤️
+    ❤️                     ❤️
+      ❤️                 ❤️
+        ❤️             ❤️
+          ❤️         ❤️
+            ❤️     ❤️
+              ❤️ ❤️
